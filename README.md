@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DivyaRaushan
-- 👀 I’m interested in skills like Android Development, JavaScript, C++, Java, Angular, Problem solving. 
+- 👀 I’m interested in skills like Android Development, C++, Java, HTML, CSS, Angular Basics. 
 - 🌱 I want to be a part of an organization where I can constantly
 learn and develop my technical and management skills
 <!---
